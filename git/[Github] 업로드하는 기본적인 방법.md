@@ -63,7 +63,7 @@ code : git push origin main
 2. git init
 3. git status
 4. git add % commit
-5. remote 등록
+5. git remote origin rep address
 6. git push origin main
 ```
 
