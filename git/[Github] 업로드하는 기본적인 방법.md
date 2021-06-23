@@ -58,11 +58,11 @@ code : git push origin main
 ```
 # 요약
 
-```basic
+```java
 1. cd (폴더경로)
 2. git init
 3. git status
-4. git add % commit
+4. git add & commit
 5. git remote origin rep address
 6. git push origin main
 ```
